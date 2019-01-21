@@ -2,7 +2,7 @@
 "VideoPlayer" is an ANDROID APP SAMPLE that shows how to use video resources by playing "Rick and Morty" video.
 
 
-# <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/video01.png" width="130" height="90"/></kbd>  ATM Consulting
+# <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer01.png" width="50" height="100"/></kbd>  ATM Consulting
 
 
 ## Table of contents
@@ -33,17 +33,17 @@ To run this project, just download the project directory to your "AndroidStudioP
 
 
 ## App screenshots
-<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/video01.png" width="130" height="260"></kbd> <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/video02.png" width="130" height="260"></kbd>
-<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/video03.png" width="130" height="260"></kbd>
-<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/video04.png" width="130" height="260"></kbd>
-<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/video05.png" width="130" height="260"></kbd>
-<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/video06.png" width="130" height="260"></kbd>
-<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/video07.png" width="130" height="260"></kbd>
-<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/video08.png" width="130" height="260"></kbd>
-<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer09.png" width="130" height="260"></kbd>
-<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/video10.png" width="130" height="260"></kbd>
-<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/video11.png" width="130" height="260"></kbd>
-<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/video12.png" width="130" height="260"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer01.png" width="260" height="130"></kbd> <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer02.png" width="260" height="130"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer03.png" width="260" height="130"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer04.png" width="260" height="130"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer05.png" width="260" height="130"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer06.png" width="260" height="130"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer07.png" width="260" height="130"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer08.png" width="260" height="130"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer09.png" width="260" height="130"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer10.png" width="260" height="130"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer11.png" width="260" height="130"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer12.png" width="260" height="130"></kbd>
 
 
 ## Thanks and how to contribute

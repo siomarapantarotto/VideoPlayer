@@ -1,4 +1,4 @@
-# <kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/videoplayer01.png" width="50" height="100"/></kbd>  Video Player
+# <kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/VideoPlayer/videoplayer01.png" width="50" height="100"/></kbd>  Video Player
 "VideoPlayer" is an ANDROID APP SAMPLE that shows how to use video resources by playing "Rick and Morty" video.
 
 
@@ -33,7 +33,7 @@ To run this project, just download the project directory to your "AndroidStudioP
 <kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/VideoPlayer/videoplayer01.png" width="180" height="260"></kbd>
 
 ## App video player activity screenshots
-<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/VideoPlayer/videoplayer04.png" width="260" height="130"></kbd> <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer05.png" width="260" height="130"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/VideoPlayer/videoplayer04.png" width="260" height="130"></kbd> <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/VideoPlayer/videoplayer05.png" width="260" height="130"></kbd>
 <kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/VideoPlayer/videoplayer06.png" width="260" height="130"></kbd>
 <kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/VideoPlayer/videoplayer07.png" width="260" height="130"></kbd>
 <kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/VideoPlayer/videoplayer08.png" width="260" height="130"></kbd>

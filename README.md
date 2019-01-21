@@ -1,8 +1,5 @@
-# VideoPlayer
+# <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer01.png" width="70" height="140"/></kbd>  Video Player
 "VideoPlayer" is an ANDROID APP SAMPLE that shows how to use video resources by playing "Rick and Morty" video.
-
-
-# <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer01.png" width="50" height="100"/></kbd>  ATM Consulting
 
 
 ## Table of contents
@@ -47,7 +44,7 @@ To run this project, just download the project directory to your "AndroidStudioP
 
 
 ## Thanks and how to contribute
-Thanks for spending some time viewing "ATMConsulting" APP!
+Thanks for spending some time viewing "VideoPlayer" APP!
 
 Contributions are more than welcome.
 

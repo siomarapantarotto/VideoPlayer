@@ -30,7 +30,7 @@ To run this project, just download the project directory to your "AndroidStudioP
 
 
 ## App screenshots
-<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer01.png" width="260" height="130"></kbd> <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer02.png" width="260" height="130"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer01.png" width="130" height="260"></kbd> <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer02.png" width="260" height="130"></kbd>
 <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer03.png" width="260" height="130"></kbd>
 <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer04.png" width="260" height="130"></kbd>
 <kbd><img src="https://github.com/siomarapantarotto/ReadMeScreeshots/blob/master/videoplayer05.png" width="260" height="130"></kbd>
